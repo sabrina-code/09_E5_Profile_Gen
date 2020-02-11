@@ -24,7 +24,7 @@ The PDF will be populated with the following:
 * CSS3
 * Bootstrap v4.3.1
 * JavaScript, Node.js, Promise.js
-* html-pdf converter by marcbachmann (https://github.com/marcbachmann)
+* html-pdf converter
 
 ### Author and License
 Sabrina Fan, 2019
